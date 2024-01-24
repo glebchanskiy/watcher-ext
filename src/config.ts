@@ -1,0 +1,1 @@
+export const WATCHER_STORAGE_PATH = '/Users/glebchanskiy/.config/watcher/store.json'
